@@ -22,9 +22,9 @@
 ---
 ### About me
 
-- My name is Eduardo, i'm 21. I am Computer Technician by Federal Institute of Alagoas and CS student at Federal Universiry of Alagoas.
+- My name is Eduardo, i'm 22. I am Computer Technician by Federal Institute of Alagoas and CS student at Federal Universiry of Alagoas.
 - I have been programming since i was thirteen(2013), I have experience with many technologies but nowadays Flutter stands out.
--  I appreciate algorithms, math and take part at some programming contests. I've won some medals on math, physics and informatics olympiads for secondary schools, and i was twice finalist on ICPC Brazil/South America Finals.
+- I appreciate algorithms, math and take part at some programming contests. I've won some medals on math, physics and informatics olympiads for secondary schools, and i was twice finalist on ICPC Brazil/South America Finals.
 
 ---
 ### Technologies & Tools
